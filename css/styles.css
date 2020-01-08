@@ -5,3 +5,17 @@ body {
 .img-fluid img-thumbnail {
   margin-top: 50px;
 }
+.best {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+  }
+.flashy {
+  color: red;
+  font-style: italic;
+  text-align: center;
+}
+.head {
+  text-align: center;
+}
