@@ -1,0 +1,7 @@
+body {
+  background-color: gray;
+}
+
+.img-fluid img-thumbnail {
+  margin-top: 50px;
+}
